@@ -7,4 +7,10 @@ pesos = [50, 51, 52, 48, 50, 55, 57, 55, 59, 60,
 
 plt.plot(anos, pesos, c='#7469B6', lw=2, linestyle='-')
 plt.show()
+#
+# variavel = 42
+#
+# print(id(variavel))
+
+
 
